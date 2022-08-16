@@ -12,4 +12,4 @@ firstimage:
 secondimage:
   registry: docker.io
   repository: nabeels/alp-v3
-  tag: v3.16.0
+  tag: v3.15.5-rc1
